@@ -18,7 +18,7 @@
   ## Description
   This project is a task-management application. It has been configured with JavaScript, jQuery, Bootstrap, and features the use of drag and drop functionality through jQuery UI.
   
-  <img src="https://github.com/ccd330/ecommerce-backend/blob/main/Develop/demo.png" />
+  <img src="https://github.com/ccd330/taskmaster/blob/main/assets/demo.png" />
 
   ## Installation Instructions
   N/A
